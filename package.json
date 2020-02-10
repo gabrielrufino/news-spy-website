@@ -1,11 +1,11 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
-    "version": "5.0.9",
+    "title": "News Spy",
+    "name": "news-spy-website",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "Website do projeto News Spy.",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,17 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
+    "homepage": "https://github.com/gabrielrufino/news-spy-website/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/gabrielrufino/news-spy-website/issues",
+        "email": "contato@gabrielrufino.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Gabriel Rufino <contato@gabrielrufino.com>",
+    "contributors": [],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+        "url": "https://github.com/gabrielrufino/news-spy-website.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
